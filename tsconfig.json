@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "lib": [
+            "DOM",
+            "ESNext"
+        ],
+        "downlevelIteration": true,
+        "esModuleInterop": true,
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "skipLibCheck": true,
+        "pretty": true,
+        "newLine": "lf",
+        "outDir": "dist/"
+    }
+}

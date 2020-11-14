@@ -1,0 +1,19 @@
+{
+  "name": "p5js_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/p5": "^0.9.1",
+    "color-system": "github:Foo-x/color-system",
+    "p5": "^1.0.0",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.6"
+  }
+}
